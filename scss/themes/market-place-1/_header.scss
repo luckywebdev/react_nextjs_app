@@ -1,0 +1,55 @@
+.header--market-place-1 {
+    .header__extra {
+        span {
+            background-color: white;
+            i {
+                color: $color-heading;
+                font-weight: 700;
+            }
+        }
+        &:hover {
+            > i {
+                color: white;
+            }
+
+            span {
+                color: white;
+            }
+        }
+        
+    }
+    .ps-form--quick-search {
+        .ps-form__categories {
+            border: 1px solid #e1e1e1;
+            border-right: none;
+        }
+    }
+    .header__content {
+        .menu--product-categories {
+            display: none;
+        }
+    }
+
+    .navigation {
+        border-bottom: 1px solid #e1e1e1;
+        background-color: rgba($color-furniture,0.8);
+
+        > .container {
+            display: flex;
+            flex-flow: row nowrap;
+
+            > * {
+                width: 100%;
+            }
+        }
+    }
+
+    &.header--sticky {
+        .header__content {
+            background-color: $color-1st;
+            .menu--product-categories {
+                display: block;
+            }
+        }
+    }
+}

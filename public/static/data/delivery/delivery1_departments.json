@@ -1,0 +1,73 @@
+{
+  "status": 1,
+  "msg": null,
+  "result": [
+    {
+      "number": "1",
+      "adress": "Berlin, Detmolder Str.15, 10715",
+      "locality": "Berlin",
+      "type": "Department",
+      "format": "Smart",
+      "delivery_branch_id": "7100102006",
+      "max_weight": "30",
+      "lat": "50.4124309",
+      "lng": "35.6599863",
+      "description": "department 1",
+      "shedule_description": "mo-fr",
+      "photos": [
+
+      ],
+      "services": {
+        "cardpay": 0
+      },
+      "public": {
+        "public_description_en": "",
+        "navigation_en": "For entrance opposite the cash register"
+      }
+    },
+    {
+      "number": "2",
+      "adress": "Berlin, Bissmarkstr.15",
+      "locality": "Berlin",
+      "type": "Department",
+      "format": "OSR",
+      "delivery_branch_id": "7100103004",
+      "max_weight": "30",
+      "lat": "50.5025327",
+      "lng": "35.6051219",
+      "description": "department 2",
+      "shedule_description": "mo-th",
+      "photos": [
+      ],
+      "services": {
+        "cardpay": 1
+      },
+      "public": {
+        "public_description_en": "",
+        "navigation_en": "Separate room, entrance from str. "
+      }
+    },
+    {
+      "number": "3",
+      "adress": "Amsterdam, main str. 12",
+      "locality": "Amsterdam",
+      "type": "Department 3",
+      "format": "Smart",
+      "delivery_branch_id": "7100102006",
+      "max_weight": "30",
+      "lat": "50.4124309",
+      "lng": "34.6599863",
+      "description": "Department 3",
+      "shedule_description": "Mo-Fr",
+      "photos": [
+      ],
+      "services": {
+        "cardpay": 0
+      },
+      "public": {
+        "public_description_en": "",
+        "navigation_en": "Entrance from , opposite the cash register"
+      }
+    }
+  ]
+}

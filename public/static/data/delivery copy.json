@@ -1,0 +1,121 @@
+{
+  "company": {
+    "delivery1": {
+      "company": "DeliveryMethod1",
+      "city": [
+        {
+          "name": "Berlin",
+          "departments": [
+            {
+              "id": 412,
+              "name": "dep41"
+            },
+            {
+              "id": 422,
+              "name": "dep24"
+            },
+            {
+              "id": 345,
+              "name": "dep34"
+            }
+          ]
+        },
+        {
+          "name": "Kiel",
+          "departments": [
+            {
+              "id": 124,
+              "name": "dep5"
+            },
+            {
+              "id": 242,
+              "name": "dep5"
+            },
+            {
+              "id": 345,
+              "name": "dep3"
+            }
+          ]
+        }
+      ]
+    },
+    "delivery2": {
+      "company": "DeliveryMethod2",
+      "city": [
+        {
+          "name": "Berlin",
+          "departments": [
+            {
+              "id": 12,
+              "name": "dep1"
+            },
+            {
+              "id": 22,
+              "name": "dep2"
+            },
+            {
+              "id": 35,
+              "name": "dep3"
+            }
+          ]
+        },
+        {
+          "name": "Amsterdam",
+          "departments": [
+            {
+              "id": 12,
+              "name": "dep1"
+            },
+            {
+              "id": 22,
+              "name": "dep2"
+            },
+            {
+              "id": 35,
+              "name": "dep3"
+            }
+          ]
+        }
+      ]
+    },
+    "delivery3": {
+      "company": "DeliveryMethod3",
+      "city": [
+        {
+          "name": "Berlin",
+          "departments": [
+            {
+              "id": 12,
+              "name": "dep1"
+            },
+            {
+              "id": 22,
+              "name": "dep2"
+            },
+            {
+              "id": 35,
+              "name": "dep3"
+            }
+          ]
+        },
+        {
+          "name": "Amsterdam",
+          "departments": [
+            {
+              "id": 12,
+              "name": "dep1"
+            },
+            {
+              "id": 22,
+              "name": "dep2"
+            },
+            {
+              "id": 35,
+              "name": "dep3"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

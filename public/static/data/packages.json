@@ -1,0 +1,56 @@
+{
+    "packages": [
+        {
+            "id": 55,
+            "project_name": "projectName1",
+            "img": "/static/img/instagram/1.jpg",
+            "solution_number" : 1,
+            "description": "this is the description of soution 1",
+            "price": "1,665",
+            "currency" : "USD",
+            "designer":{
+                "name": "Designer1",
+                "avatar" :"/static/img/users/our-team/1.jpg"
+            }
+        },
+        {
+            "id": 56,
+            "project_name": "projectName2",
+            "img": "/static/img/instagram/2.jpg",
+            "solution_number" : 2,
+            "description": "this is the description of soution 2",
+            "price": "32,399",
+            "currency" : "USD",
+            "designer":{
+                "name": "Designer2",
+                "avatar" :"/static/img/users/our-team/2.jpg"
+            }
+        },
+        {
+            "id": 57,
+            "project_name": "projectName3",
+            "img": "/static/img/instagram/3.jpg",
+            "solution_number" : 3,
+            "description": "this is the description of soution 3",
+            "price": "1,665",
+            "currency" : "USD",
+            "designer":{
+                "name": "Designer3",
+                "avatar" :"/static/img/users/our-team/3.jpg"
+            }
+        },
+        {
+            "id": 58,
+            "project_name": "projectName4",
+            "img": "/static/img/instagram/4.jpg",
+            "solution_number" : 4,
+            "description": "this is the description of soution 4",
+            "price": "16,605",
+            "currency" : "USD",
+            "designer":{
+                "name": "Designer4",
+                "avatar" :"/static/img/users/our-team/4.jpg"
+            }
+        }
+    ]
+}

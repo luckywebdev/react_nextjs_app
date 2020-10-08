@@ -1,0 +1,8 @@
+{
+    "filterOptions" : ["Brand", "Price", "Shipping time", "Shape", "Width", "Depth", "Material", "Colour", "Bowl width", "Bowl diameter", "Typ of sink installation"],
+    "Brand":["Brand1", "Brand2", "Brand3", "Brand4", "Brand5", "Brand6"],
+    "Shipping time":["Shipping time1", "Shipping time2", "Shipping time3", "Shipping time4", "Shipping time5", "Shipping time6"],
+    "Price":["Shape1", "Shape2", "Shape3", "Shape4", "Shape5", "Shape6"],
+    "Material":["Material1", "Material2", "Material3", "Material4", "Material5", "Material6"],
+    "Colour":["Material1", "Material2", "Material3", "Material4", "Material5", "Material6"]
+}

@@ -1,0 +1,22 @@
+{
+    "taglist":[
+        {
+            "productId" : 55,
+            "info" : {
+                "icon": "/static/img/marker.png",
+                "title" : "bathroom1",
+                "description":"this is bathroom1",
+                "rect":[0, 450, 200, 150]
+            }
+        },
+        {
+            "productId" : 56,
+            "info" : {
+                "icon":"/static/img/marker.png",
+                "title" : "bathroom2-4",
+                "description":"this is bathroom2-4",
+                "rect":[360, 390, 240, 210]
+            }
+        }
+    ]
+}

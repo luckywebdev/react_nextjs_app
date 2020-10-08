@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "data": [
+    {
+      "Description": "Berlin",
+      "Ref": "fc5f1e3c-928e-11e9-898c-005056b24375",
+      "Delivery1": "1",
+      "Delivery2": "0",
+      "Delivery3": "1",
+      "Delivery4": "0",
+      "Delivery5": "1",
+      "Delivery6": "0",
+      "Delivery7": "0",
+      "Area": "71508137-9b87-11de-822f-000c2965ae0e",
+      "SettlementType": "563ced13-f210-11e3-8c4a-0050568002cf",
+      "IsBranch": "0",
+      "PreventEntryNewStreetsUser": null,
+      "Conglomerates": null,
+      "CityID": "2667",
+      "SettlementTypeDescription": "city",
+      "SpecialCashCheck": 1,
+      "AreaDescription": ""
+    },
+    {
+      "Description": "Amsterdam",
+      "Ref": "8e1718f5-1972-11e5-add9-005056887b8d",
+      "Delivery1": "1",
+      "Delivery2": "1",
+      "Delivery3": "1",
+      "Delivery4": "1",
+      "Delivery5": "1",
+      "Delivery6": "1",
+      "Delivery7": "0",
+      "Area": "71508136-9b87-11de-822f-000c2965ae0e",
+      "SettlementType": "563ced11-f210-11e3-8c4a-0050568002cf",
+      "IsBranch": "0",
+      "PreventEntryNewStreetsUser": null,
+      "Conglomerates": null,
+      "CityID": "1042",
+      "SettlementTypeDescription": "",
+      "SpecialCashCheck": 1,
+      "AreaDescription": ""
+    },
+    {
+      "Description": "Amsterdam2",
+      "Ref": "8e1718f5-1972-11e5-add9-005056887b8d",
+      "Delivery1": "1",
+      "Delivery2": "1",
+      "Delivery3": "1",
+      "Delivery4": "1",
+      "Delivery5": "1",
+      "Delivery6": "1",
+      "Delivery7": "0",
+      "Area": "71508136-9b87-11de-822f-000c2965ae0e",
+      "SettlementType": "563ced11-f210-11e3-8c4a-0050568002cf",
+      "IsBranch": "0",
+      "PreventEntryNewStreetsUser": null,
+      "Conglomerates": null,
+      "CityID": "1042",
+      "SettlementTypeDescription": "",
+      "SpecialCashCheck": 1,
+      "AreaDescription": ""
+    }
+
+  ]
+}
